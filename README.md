@@ -1,6 +1,18 @@
 # ENG-MODELS
 Models and algorithms for Computer Engineering students
 
+Main topics:
+
+- Clustering
+- Regression
+- Classification
+
+- Learning
+  - Supervised
+  - Unsupervised 
+
+List of algorithms and models:
+
 - A*
 - Analysis of variance (ANOVA)
 - Ajuste de curvas
