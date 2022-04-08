@@ -59,12 +59,12 @@ List of algorithms and models:
 - Monte Carlo
 - Naive Bayes
 - Natural Language Processing (NLP)
-- Nearest Neighbors – (k-NN)
+- Nearest Neighbors (k-NN)
 - Newton Raphson
 - Pattern Recognition
 - Predictive Modeling
 - Principal Component Analysis
-- Principal Component Analysis – (PCA)
+- Principal Component Analysis (PCA)
 - Random Forest
 - Random Numbers
 - Recommendation Engine
@@ -73,7 +73,7 @@ List of algorithms and models:
 - Scoring Engine
 - Search Engine
 - Segmentation
-- Support Vector Machine – (SVM)
+- Support Vector Machine (SVM)
 - Survival Analysis
 - Swarm Intelligence
 - Test of Hypotheses
