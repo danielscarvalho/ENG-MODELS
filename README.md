@@ -58,6 +58,7 @@ List of algorithms and models:
 - Model Fitting
 - Monte Carlo
 - Naive Bayes
+- Natural Language Processing (NLP)
 - Nearest Neighbors – (k-NN)
 - Newton Raphson
 - Pattern Recognition
