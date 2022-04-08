@@ -61,3 +61,4 @@ Models and algorithms for Computer Engineering students
 - Experimental Design
 - Swarm Intelligence
 - Hypothesis Testing
+- Binary Tree
