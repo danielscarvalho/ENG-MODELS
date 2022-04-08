@@ -2,8 +2,8 @@
 Models and algorithms for Computer Engineering students
 
 - A*
+- Analysis of variance (ANOVA)
 - Ajuste de curvas
-- ANOVA
 - Arbitrage
 - Artificial Neural Networks
 - Association Rules
