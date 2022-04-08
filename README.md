@@ -1,64 +1,69 @@
 # ENG-MODELS
 Models and algorithms for Computer Engineering students
 
-- Newton Raphson
-- Fourier (FFT)
-- Convolution
-- Logistic Regression
-- Linear Regression
-- Bezier Curve
+- A*
 - Ajuste de curvas
-- Artificial Neural Networks
-- Machine Learning
-- Clustering
-- Decision Trees
-- Random Forest
-- XGBoost/LightGBM
-- Hypothesis Testing
 - ANOVA
-- Principal Component Analysis
-- Conjoint Analysis
-- Ensemble Methods
-- Monte Carlo
-- Comutação Evolutiva
-- Jackknife Regression
-- Density Estimation 
-- Confidence Interval 
-- Test of Hypotheses 
-- Pattern Recognition 
-- Time Series 
-- Random Numbers 
-- Bayesian Statistics 
-- Naive Bayes 
-- Principal Component Analysis – (PCA)
-- Ensembles 
-- Support Vector Machine – (SVM)
-- Nearest Neighbors – (k-NN)
-- Feature Selection
-- Indexation/Cataloguing
-- Geo-X (Spatial Modeling) 
-- Recommendation Engine
-- Search Engine
+- Arbitrage
+- Artificial Neural Networks
+- Association Rules
 - Attribution Modeling
-- Collaborative Filtering
-- Rule System 
-- Linkage Analysis 
-- Association Rules 
-- Scoring Engine 
-- Segmentation 
-- Predictive Modeling 
-- Graphs 
-- Deep Learning 
-- Game Theory 
-- Imputation 
-- Survival Analysis 
-- Arbitrage 
-- Lift Modeling 
-- Yield Optimization
-- Cross-Validation
-- Model Fitting
-- Relevancy Algorithm
-- Experimental Design
-- Swarm Intelligence
-- Hypothesis Testing
+- Bayesian Statistics
+- Bezier Curve
 - Binary Tree
+- Clustering
+- Collaborative Filtering
+- Comutação Evolutiva
+- Confidence Interval
+- Conjoint Analysis
+- Convolution
+- Cross-Validation
+- Decision Trees
+- Deep Learning
+- Density Estimation
+- Ensemble Methods
+- Ensembles
+- Experimental Design
+- Feature Selection
+- Fourier (FFT)
+- Game Theory
+- Geo-X (Spatial Modeling)
+- Graphs
+- Hypothesis Testing
+- Imputation
+- Indexation/Cataloguing
+- Jackknife Regression
+- Lift Modeling
+- Linear Regression
+- Linkage Analysis
+- Logistic Regression
+- Machine Learning
+- Model Fitting
+- Monte Carlo
+- Naive Bayes
+- Nearest Neighbors – (k-NN)
+- Newton Raphson
+- Pattern Recognition
+- Predictive Modeling
+- Principal Component Analysis
+- Principal Component Analysis – (PCA)
+- Random Forest
+- Random Numbers
+- Recommendation Engine
+- Relevancy Algorithm
+- Rule System
+- Scoring Engine
+- Search Engine
+- Segmentation
+- Support Vector Machine – (SVM)
+- Survival Analysis
+- Swarm Intelligence
+- Test of Hypotheses
+- Time Series
+- XGBoost/LightGBM
+- Yield Optimization
+
+Reference:
+
+- https://en.wikipedia.org/wiki/List_of_algorithms
+- https://www.datasciencecentral.com/40-techniques-used-by-data-scientists/
