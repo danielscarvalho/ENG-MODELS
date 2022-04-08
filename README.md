@@ -6,10 +6,15 @@ Main topics:
 - Clustering
 - Regression
 - Classification
+- Biologicaly Inspired Algorithms
+
+---
 
 - Learning
   - Supervised
   - Unsupervised 
+
+---
 
 List of algorithms and models:
 
