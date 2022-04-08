@@ -1,2 +1,63 @@
 # ENG-MODELS
 Models and algorithms for Computer Engineering students
+
+- Newton Raphson
+- Fourier (FFT)
+- Convolution
+- Logistic Regression
+- Linear Regression
+- Bezier Curve
+- Ajuste de curvas
+- Artificial Neural Networks
+- Machine Learning
+- Clustering
+- Decision Trees
+- Random Forest
+- XGBoost/LightGBM
+- Hypothesis Testing
+- ANOVA
+- Principal Component Analysis
+- Conjoint Analysis
+- Ensemble Methods
+- Monte Carlo
+- Comutação Evolutiva
+- Jackknife Regression
+- Density Estimation 
+- Confidence Interval 
+- Test of Hypotheses 
+- Pattern Recognition 
+- Time Series 
+- Random Numbers 
+- Bayesian Statistics 
+- Naive Bayes 
+- Principal Component Analysis – (PCA)
+- Ensembles 
+- Support Vector Machine – (SVM)
+- Nearest Neighbors – (k-NN)
+- Feature Selection
+- Indexation/Cataloguing
+- Geo-X (Spatial Modeling) 
+- Recommendation Engine
+- Search Engine
+- Attribution Modeling
+- Collaborative Filtering
+- Rule System 
+- Linkage Analysis 
+- Association Rules 
+- Scoring Engine 
+- Segmentation 
+- Predictive Modeling 
+- Graphs 
+- Deep Learning 
+- Game Theory 
+- Imputation 
+- Survival Analysis 
+- Arbitrage 
+- Lift Modeling 
+- Yield Optimization
+- Cross-Validation
+- Model Fitting
+- Relevancy Algorithm
+- Experimental Design
+- Swarm Intelligence
+- Hypothesis Testing
