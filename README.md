@@ -10,7 +10,7 @@ Main topics:
 
 ---
 
-- Learning
+- Machine Learning (ML)
   - Supervised
   - Unsupervised 
 
