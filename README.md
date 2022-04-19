@@ -41,6 +41,7 @@ List of algorithms and models:
 - Ensemble Methods
 - Ensembles
 - Experimental Design
+- Factor analysis
 - Feature Selection
 - Fourier (FFT)
 - Game Theory
