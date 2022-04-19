@@ -18,9 +18,9 @@ Main topics:
 Basic process:
 
 1. Analysis (scope definition, questions, delimitation)
-2. Mining (Get, clean and combine data)
+2. Mining (Get, clean, and combine data)
 3. Explore (Understanding)
-4. Model (Create computational (math, statistical) model)
+4. Model (Create computational, math, statistical model
 5. Visualize (Communicate, create algorithms, publish app or WEB API)
 ---
 
