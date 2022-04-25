@@ -15,6 +15,12 @@ Main topics:
   - Unsupervised 
 
 ---
+Programming Languages:
+- Java
+- Python
+- Go
+- C
+---
 Basic process:
 
 1. Analysis (scope definition, questions, delimitation)
