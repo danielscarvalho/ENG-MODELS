@@ -103,6 +103,7 @@ List of algorithms and models:
 
 Reference:
 
+- Introduction to Algorithms, MIT Press, Cormen, Et al.
 - https://en.wikipedia.org/wiki/List_of_algorithms
 - https://www.datasciencecentral.com/40-techniques-used-by-data-scientists/
 - https://www.techtarget.com/searchbusinessanalytics/feature/15-common-data-science-techniques-to-know-and-use
