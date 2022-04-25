@@ -52,6 +52,7 @@ List of algorithms and models:
 - Decision Trees
 - Deep Learning
 - Density Estimation
+- Dijkstra’s algorithm
 - Ensemble Methods
 - Ensembles
 - Experimental Design
@@ -70,6 +71,7 @@ List of algorithms and models:
 - Linkage Analysis
 - Logistic Regression
 - Machine Learning
+- Minimax
 - Model Fitting
 - Monte Carlo
 - Naive Bayes
