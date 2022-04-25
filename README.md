@@ -34,7 +34,6 @@ List of algorithms and models:
 
 - A*
 - Analysis of variance (ANOVA)
-- Ajuste de curvas
 - Arbitrage
 - Artificial Neural Networks
 - Association Rules
@@ -49,6 +48,7 @@ List of algorithms and models:
 - Conjoint Analysis
 - Convolution
 - Cross-Validation
+- Curve fitting (Ajuste de curvas)
 - Decision Trees
 - Deep Learning
 - Density Estimation
@@ -66,6 +66,7 @@ List of algorithms and models:
 - Imputation
 - Indexation/Cataloguing
 - Jackknife Regression
+- Least squares
 - Lift Modeling
 - Linear Regression
 - Linkage Analysis
@@ -90,6 +91,7 @@ List of algorithms and models:
 - Scoring Engine
 - Search Engine
 - Segmentation
+- Spline 
 - Support Vector Machine (SVM)
 - Survival Analysis
 - Swarm Intelligence
