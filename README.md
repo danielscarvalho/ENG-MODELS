@@ -64,6 +64,7 @@ List of algorithms and models:
 - Graphs
 - Hypothesis Testing
 - Imputation
+- Interpolation
 - Indexation/Cataloguing
 - Jackknife Regression
 - Least squares
