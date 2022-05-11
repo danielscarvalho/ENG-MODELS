@@ -38,6 +38,7 @@ List of algorithms and models:
 - Artificial Neural Networks
 - Association Rules
 - Attribution Modeling
+- B-Tree, B+Tree
 - Bayesian Statistics
 - Bezier Curve
 - Binary Tree
