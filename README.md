@@ -58,6 +58,7 @@ List of algorithms and models:
 - Ensembles
 - Experimental Design
 - Factor analysis
+- Factorization
 - Feature Selection
 - Fourier (FFT)
 - Game Theory
@@ -93,6 +94,11 @@ List of algorithms and models:
 - Scoring Engine
 - Search Engine
 - Segmentation
+- Sort Algotithms
+  - Quick Sort
+  - Bubble Sort
+  - Radix Sort
+  - Insertion Sort  
 - Spline 
 - Support Vector Machine (SVM)
 - Survival Analysis
